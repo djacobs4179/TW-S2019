@@ -1,9 +1,9 @@
 Research log
 
-Introduce yourself.
-Describe your own initial understandings and assumptions about “technical writing” as you start the course. How do your initial understandings/assumptions align (or not) with the readings we have done this week?
-Describe and reflect on your work in setting up an account and repository on GitHub. The “Hello World” tutorial/guide on GitHub is an example of tech writing. What did you notice about it? What seem to be this sort of texts key characterisics and features?
-The Programming Historian and PierceHacker are perhaps many things, but they are I believe technical writing projects at their core. Our reading “The Rhetorical Nature of Technical and Professional Writing” frames tech writing as fundementally rhetorical. This means that questions of purpose, audience, and medium of delivery are fundemental to the work of technical writing. Consider – who is the particular audience for The Programming Historian? For Pierce Hacker? What is the purpose of The Programming Historian? Of PierceHacker? Why do you think the writers/designers of these projects decided to deliver their work via the medium of a public website?
-Finally, as best you can, try to articulate what you feel you’ve learned this week?
+I’m Dion and this is my first entry to my technical writing research log.  My first initial understanding or assumptions about technical writing was writing tailor for business or office environment.  I thought these included things like “memo’s” and presentations for reports or pitches.  Or guides and standards for companies.  But the way I’m seeing it now, it seems like it’s mostly for manuals or directions.
 
-Just a temporary copy and paste of the questions for Week 1 research log.
+
+
+The guide to setting up an account and repository on GitHub was written very well in my opinion.  Was very easy to follow and setup my account.  I did not notice until you pointed it out but while writing in the *.md file format, everything is very basic.  No font or special text it seems.
+
+This week I feel like I learn a lot this week.  This GitHub site seems like a really good idea.  Start a project and getting others feedback to improve the project.  Or use GitHub to help start something of your own by building on shared/open projects out there already.  I also learn the actual meaning of technical writing.
