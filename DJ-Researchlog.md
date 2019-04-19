@@ -10,8 +10,9 @@ This week I feel like I learn a lot this week.  This GitHub site seems like a re
 
 # ***Research log Week 2***
 
-
 In this update I'm going to reflect on my experience with creating instructions for my Lego design.  Right from the start I knew words wouldn’t be enough and it need to have images.  So I focus on how to best show images of a before and after in each step.  Also knowing that my audience was college students I felt images would be more than enough.  I felt I didn’t have to go into much details with the written text because of the images.  I choose PowerPoint because I feel it’s the easier way to display text and images together.  Only issue I had was printing them out in color.  My printed text printed out and a black-grey scale.  Some of my texts refer to the color of the Lego pieces and the images was in black and white.  Some points that I gather to use for my next instructions was to perhaps label the Lego pieces.   Adjust some of the images a little bit to make them a bit clearer.
+
+
 ---
 * Headers
 * Lists
